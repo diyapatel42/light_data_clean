@@ -1,4 +1,4 @@
-# light_data_clean
+# EDA - Exploratory Data Analysis 
 I lightly clean data before uploading it to S3 AWS cloud for my extensive project. 
 # Initial Data Cleaning for Insurance Dataset
 
